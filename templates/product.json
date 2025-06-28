@@ -120,8 +120,17 @@
             "payment_button_text_color": ""
           }
         },
+        "image_nCjykM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sercure_2.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "image_e6gBjM": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/2c4f92e2-cbfa-4090-8f9e-b99a2fcd06ec.png",
             "alignment": "center",
@@ -141,6 +150,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "image_nCjykM",
         "image_e6gBjM"
       ],
       "settings": {
