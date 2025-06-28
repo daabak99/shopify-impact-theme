@@ -55,6 +55,7 @@
       "blocks": {
         "image_MLELTW": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/trustpilot.png",
             "alignment": "center",
@@ -65,6 +66,12 @@
           "type": "title",
           "settings": {
             "heading_tag": "h3"
+          }
+        },
+        "liquid_gcxXLF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 6px; font-family: Arial, sans-serif; font-size: 12px; cursor: pointer; margin: 0; padding: 0; line-height: 1;\" onclick=\"document.getElementById('shopify-section-template--24628408713541__testi_bas_page_jiN7eh').scrollIntoView({ behavior: 'smooth' });\">\n  <div style=\"display: flex; align-items: center; gap: 2px; margin: 0; padding: 0;\">\n    <!-- Étoiles -->\n    <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" style=\"display: block;\"><rect width=\"24\" height=\"24\" fill=\"#00B67A\"/><path d=\"M12 2l2.4 7.4H22l-6 4.3 2.4 7.4L12 16.8l-6 4.3 2.4-7.4-6-4.3h7.6L12 2z\" fill=\"#fff\"/></svg>\n    <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" style=\"display: block;\"><rect width=\"24\" height=\"24\" fill=\"#00B67A\"/><path d=\"M12 2l2.4 7.4H22l-6 4.3 2.4 7.4L12 16.8l-6 4.3 2.4-7.4-6-4.3h7.6L12 2z\" fill=\"#fff\"/></svg>\n    <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" style=\"display: block;\"><rect width=\"24\" height=\"24\" fill=\"#00B67A\"/><path d=\"M12 2l2.4 7.4H22l-6 4.3 2.4 7.4L12 16.8l-6 4.3 2.4-7.4-6-4.3h7.6L12 2z\" fill=\"#fff\"/></svg>\n    <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" style=\"display: block;\"><rect width=\"24\" height=\"24\" fill=\"#00B67A\"/><path d=\"M12 2l2.4 7.4H22l-6 4.3 2.4 7.4L12 16.8l-6 4.3 2.4-7.4-6-4.3h7.6L12 2z\" fill=\"#fff\"/></svg>\n    <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" style=\"display: block;\">\n      <rect x=\"0\" y=\"0\" width=\"12\" height=\"24\" fill=\"#00B67A\"></rect>\n      <rect x=\"12\" y=\"0\" width=\"12\" height=\"24\" fill=\"#D3D3D3\"></rect>\n      <path d=\"M12 2l2.4 7.4H22l-6 4.3 2.4 7.4L12 16.8l-6 4.3 2.4-7.4-6-4.3h7.6L12 2z\" fill=\"#fff\"/>\n    </svg>\n  </div>\n  <span style=\"color: #333; margin: 0; padding: 0;\">Excellent <strong>4.7</strong> | <strong>Avis</strong></span>\n  <span style=\"display: flex; align-items: center; background-color: #00724C; color: white; padding: 2px 10px; border-radius: 999px; font-size: 9px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin: 0;\">\n    <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" style=\"margin-right: 5px;\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#ffffff\"/>\n      <path d=\"M7 12l3 3 6-6\" stroke=\"#36AB9C\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    Entreprise vérifiée\n  </span>\n</div>"
           }
         },
         "image_En6frp": {
@@ -154,6 +161,7 @@
       "block_order": [
         "image_MLELTW",
         "title",
+        "liquid_gcxXLF",
         "image_En6frp",
         "badges",
         "price",
