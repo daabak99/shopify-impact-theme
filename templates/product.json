@@ -108,6 +108,50 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_Ug6hzH": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gAVygp": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Pourquoi choisir le champoing Liftélia"
+          }
+        },
+        "heading_kBawb3": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir le champoing Liftélia",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "image_TzVKY6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_1_78b075ca-f696-4d5f-8d1e-16ebfb7ad4b9.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gAVygp",
+        "heading_kBawb3",
+        "image_TzVKY6"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_UT6HtU": {
       "type": "slideshow",
       "blocks": {
@@ -136,6 +180,7 @@
       "block_order": [
         "image_wtMNnm"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -317,6 +362,7 @@
   "order": [
     "slideshow_K9Nnic",
     "logo_list_CrEg6f",
+    "rich_text_Ug6hzH",
     "slideshow_UT6HtU",
     "main",
     "related-products"
