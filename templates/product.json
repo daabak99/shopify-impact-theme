@@ -9,6 +9,146 @@
  */
 {
   "sections": {
+    "slideshow_K9Nnic": {
+      "type": "slideshow",
+      "blocks": {
+        "image_d77VQQ": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_d77VQQ"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "logo_list_CrEg6f": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_K3gBPP": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VOGUE_LOGO.svg",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_qmXpte": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_egNqnR": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_znqYzU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/allure-181838.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_K3gBPP",
+        "logo_qmXpte",
+        "logo_egNqnR",
+        "logo_znqYzU"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "slideshow_UT6HtU": {
+      "type": "slideshow",
+      "blocks": {
+        "image_wtMNnm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_1.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wtMNnm"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -175,6 +315,9 @@
     }
   },
   "order": [
+    "slideshow_K9Nnic",
+    "logo_list_CrEg6f",
+    "slideshow_UT6HtU",
     "main",
     "related-products"
   ]
