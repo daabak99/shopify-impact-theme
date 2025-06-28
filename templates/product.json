@@ -9,47 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_RERFz8": {
-      "type": "slideshow",
-      "blocks": {
-        "image_iT6TNq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ALERT_14_fa3d8234-ff25-4333-8b13-be32ee3d37f6.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_iT6TNq"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -217,7 +176,6 @@
     }
   },
   "order": [
-    "slideshow_RERFz8",
     "main",
     "related-products"
   ]
