@@ -93,10 +93,10 @@
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
+        "liquid_BBwr9r": {
+          "type": "liquid",
           "settings": {
-            "show_empty": false
+            "liquid": "<div class=\"product-info__liquid\">\n  <style>\n    .stock-alert {\n      background-color: #ffcccc;\n      padding: 4px 10px;\n      border-radius: 6px;\n      display: inline-flex;\n      align-items: center;\n      gap: 8px;\n      font-family: Arial, sans-serif;\n      font-size: 12px;\n      font-weight: 500;\n      color: #AD0000;\n      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);\n    }\n\n    .stock-alert .dot {\n      animation: blink 1.2s steps(2, start) infinite;\n      color: red;\n      font-size: 12px;\n      line-height: 1;\n    }\n\n    @keyframes blink {\n      0%, 100% { opacity: 1; }\n      50% { opacity: 0; }\n    }\n  </style>\n\n  <div class=\"stock-alert\">\n    <span class=\"dot\">●</span>\n    <span>Stock restant : 4 Rasoirs</span>\n  </div>\n</div>"
           }
         },
         "payment_terms": {
@@ -165,7 +165,7 @@
         "image_En6frp",
         "badges",
         "price",
-        "rating",
+        "liquid_BBwr9r",
         "payment_terms",
         "separator",
         "description",
