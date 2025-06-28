@@ -46,6 +46,8 @@
     "show_page_transition": true,
     "heading_apparition": "none",
     "color_swatch_style": "rectangle",
+    "show_discount": true,
+    "discount_mode": "saving",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_type": "drawer",

@@ -53,10 +53,27 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "image_MLELTW": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/trustpilot.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
+          }
+        },
+        "image_En6frp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trust22.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "badges": {
@@ -135,7 +152,9 @@
         }
       },
       "block_order": [
+        "image_MLELTW",
         "title",
+        "image_En6frp",
         "badges",
         "price",
         "rating",
