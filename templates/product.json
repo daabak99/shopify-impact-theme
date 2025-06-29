@@ -132,10 +132,10 @@
         "image_TzVKY6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_1_78b075ca-f696-4d5f-8d1e-16ebfb7ad4b9.png",
+            "image": "shopify://shop_images/PROTECTS_HAIR.png",
             "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
+            "max_width": 1000,
+            "mobile_max_width": 600
           }
         }
       },
