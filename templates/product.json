@@ -235,6 +235,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -262,6 +263,10 @@
             "color_mode": "variant",
             "size_chart_page": ""
           }
+        },
+        "separator_EKgmby": {
+          "type": "separator",
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
@@ -320,6 +325,7 @@
         "separator",
         "description",
         "variant_picker",
+        "separator_EKgmby",
         "quantity_selector",
         "kaching_bundles_app_block_Vnkh8F",
         "liquid_BBwr9r",
