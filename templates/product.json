@@ -172,6 +172,21 @@
         "text_color": ""
       }
     },
+    "video_kxradN": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Design sans titre.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -355,6 +370,7 @@
     "logo_list_CrEg6f",
     "rich_text_Ug6hzH",
     "rich_text_dYCQfE",
+    "video_kxradN",
     "main",
     "related-products"
   ]
