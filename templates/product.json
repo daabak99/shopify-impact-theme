@@ -447,6 +447,13 @@
             "title": "Ingrédients",
             "content": "<p><strong>Ingrédients soigneusement sélectionnés </strong><em>Liftélia associe des agents colorants performants à des huiles botaniques (macadamia, jojoba) et des extraits de racines (ginseng, gingembre) pour préserver la beauté et la santé de vos cheveux.</em></p><p><strong>Ingrédients : </strong></p><p>Eau, alcool cétylique/cétéarylique, cétéareth-25, p-phénylènediamine, propylène glycol, acide ascorbique (vitamine C), glycéryl stéarate, squalane, vaseline, cyclopentasiloxane, parfum, résorcine, sulfite de sodium, phénylméthylpyrazolone, chlorure de cétrimonium, huile de graines de Macadamia ternifolia, huile de graines de Simmondsia chinensis (jojoba), EDTA tétrasodique, éthanol.<br/>Autres ingrédients en traces : extrait de racine de Polygonum multiflorum, extrait de racine de Zingiber officinale (gingembre), extrait de racine de Panax ginseng, m-aminophénol, sulfate de N,N-bis(2-hydroxyéthyl)-p-phénylènediamine, 1,2-hexanediol, phénoxyéthanol, éthylhexylglycérine.<br/><br/><em><br/></em><br/><br/></p>"
           }
+        },
+        "collapsible_text_MDqXG8": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison & Expédition",
+            "content": "<p>Livraison rapide et fiable dans toute la France, la Suisse et la Belgique.</p><p><strong>Zones desservies :</strong> France, Suisse, Belgique<br/><strong>Délais de livraison :</strong> 6 à 10 jours ouvrés<br/><strong>Transporteurs partenaires :</strong> Livraison assurée par des services reconnus pour leur fiabilité<br/><strong>Suivi en temps réel :</strong> Numéro de suivi envoyé dès l’expédition<br/><strong>Service client réactif :</strong> Notre équipe reste à votre disposition pour toute question ou demande spécifique</p><p>Commandez en toute confiance et profitez d’une expérience de livraison simple et sécurisée.</p>"
+          }
         }
       },
       "block_order": [
@@ -470,7 +477,8 @@
         "liquid_UkQUL8",
         "collapsible_text_VBikY9",
         "collapsible_text_BkTtmQ",
-        "collapsible_text_neNk73"
+        "collapsible_text_neNk73",
+        "collapsible_text_MDqXG8"
       ],
       "settings": {
         "full_width": true,
