@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "50 % de réduction pour votre première commande offre exceptionnelle, valable aujourd’hui",
             "url": ""
           }
         }
@@ -63,7 +63,7 @@
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "header",
+    "announcement-bar"
   ]
 }
