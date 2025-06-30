@@ -573,29 +573,165 @@
         "item_6eAGqR": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Combien de temps dure la coloration Liftélia ?",
+            "content": "<p>La coloration dure généralement 4 à 6 semaines, selon la nature de vos cheveux et votre routine de soins.</p>"
           }
         },
         "item_b4PCmt": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "En combien de temps obtient-on le résultat ?",
+            "content": "<p>Vous obtenez une couvrance parfaite en seulement 10 minutes.</p>"
+          }
+        },
+        "item_tc4eXX": {
+          "type": "item",
+          "settings": {
+            "title": "La coloration Liftélia couvre-t-elle les cheveux blancs ?",
+            "content": "<p>Oui, elle couvre efficacement les cheveux blancs sans laisser de racines apparentes.</p>"
+          }
+        },
+        "item_Cc46yb": {
+          "type": "item",
+          "settings": {
+            "title": "L’application est-elle facile ?",
+            "content": "<p>Oui, elle s’applique comme un shampoing, sans mélange ni préparation complexe.</p>"
+          }
+        },
+        "item_fH73Am": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il un risque de taches sur la peau ou les vêtements ?",
+            "content": "<p>Non, la formule Liftélia est conçue pour limiter au maximum les risques de taches.</p>"
+          }
+        },
+        "item_U8AhWY": {
+          "type": "item",
+          "settings": {
+            "title": "La coloration contient-elle des produits chimiques agressifs ?",
+            "content": "<p>Non, elle est sans ammoniaque, peroxyde ni sulfates, et donc douce pour le cuir chevelu.</p>"
+          }
+        },
+        "item_PKnGnK": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on utiliser Liftélia sur cheveux colorés ou décolorés ?",
+            "content": "<p>Oui, elle peut être appliquée sur cheveux naturels, colorés ou décolorés, sauf indication contraire sur l’emballage.</p>"
+          }
+        },
+        "item_MpiDJU": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que Liftélia abîme les cheveux ?",
+            "content": "<p>Non, au contraire, elle les nourrit grâce à ses ingrédients naturels et ne provoque pas de cassure ni d’irritation.</p>"
+          }
+        },
+        "item_EzCCkf": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle fréquence dois-je refaire ma coloration ?",
+            "content": "<p>Cela dépend de la vitesse de repousse de vos cheveux, mais en général toutes les 4 à 6 semaines.</p>"
+          }
+        },
+        "item_tzf6Lj": {
+          "type": "item",
+          "settings": {
+            "title": "Comment entretenir ma couleur ?",
+            "content": "<p>Utilisez des shampoings doux pour cheveux colorés et évitez les expositions prolongées au soleil ou à l’eau chlorée.</p>"
+          }
+        },
+        "item_kJaTba": {
+          "type": "item",
+          "settings": {
+            "title": "La coloration fonctionne-t-elle sur cheveux épais ou frisés ?",
+            "content": "<p>Oui, elle est efficace sur tous types de cheveux, même épais ou frisés.</p>"
+          }
+        },
+        "item_LTbCxz": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on utiliser Liftélia après une permanente ou un lissage ?",
+            "content": "<p>Oui, mais il est conseillé d’attendre une semaine après ces traitements pour préserver la santé de vos cheveux.</p>"
+          }
+        },
+        "item_x4Wj8f": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si je dépasse le temps de pose ?",
+            "content": "<p>Le résultat ne risque pas d’être altéré, mais un temps de pose trop long peut sensibiliser le cuir chevelu.</p>"
+          }
+        },
+        "item_cwTRJ6": {
+          "type": "item",
+          "settings": {
+            "title": "La coloration Liftélia est-elle adaptée aux cheveux fins ?",
+            "content": "<p>Oui, elle convient parfaitement aux cheveux fins et ne les alourdit pas.</p>"
           }
         },
         "item_napGMA": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Peut-on utiliser Liftélia sur cheveux courts ?",
+            "content": "<p>Oui, une seule boîte suffit pour cheveux courts ou mi-longs. Pour cheveux longs ou très épais aussi.</p>"
+          }
+        },
+        "item_xcR8p7": {
+          "type": "item",
+          "settings": {
+            "title": "La coloration est-elle adaptée aux peaux sensibles ?",
+            "content": "<p>Oui, grâce à sa formule douce, elle convient aux peaux sensibles, mais un test allergique reste recommandé.</p>"
+          }
+        },
+        "item_EdBUdz": {
+          "type": "item",
+          "settings": {
+            "title": "Comment puis-je choisir la bonne teinte ?",
+            "content": "<p>Consultez la charte des couleurs sur l’emballage ou contactez notre service client pour un conseil personnalisé.</p>"
+          }
+        },
+        "item_tHhyjq": {
+          "type": "item",
+          "settings": {
+            "title": "Existe-t-il une garantie ou un service après-vente ?",
+            "content": "<p>Oui, notre service client est à votre disposition pour toute question ou réclamation.</p>"
+          }
+        },
+        "item_FzRmYC": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on utiliser Liftélia sur cheveux gris ?",
+            "content": "<p>Oui, elle est particulièrement efficace sur cheveux gris ou blancs.</p>"
+          }
+        },
+        "item_YJU3AV": {
+          "type": "item",
+          "settings": {
+            "title": "La coloration est-elle parfumée ?",
+            "content": "<p>Oui, elle possède une fragrance agréable et douce.</p>"
           }
         }
       },
       "block_order": [
         "item_6eAGqR",
         "item_b4PCmt",
-        "item_napGMA"
+        "item_tc4eXX",
+        "item_Cc46yb",
+        "item_fH73Am",
+        "item_U8AhWY",
+        "item_PKnGnK",
+        "item_MpiDJU",
+        "item_EzCCkf",
+        "item_tzf6Lj",
+        "item_kJaTba",
+        "item_LTbCxz",
+        "item_x4Wj8f",
+        "item_cwTRJ6",
+        "item_napGMA",
+        "item_xcR8p7",
+        "item_EdBUdz",
+        "item_tHhyjq",
+        "item_FzRmYC",
+        "item_YJU3AV"
       ],
       "name": "FAQ",
       "settings": {
