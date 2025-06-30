@@ -511,6 +511,32 @@
         "text_color": ""
       }
     },
+    "rich_text_6j9dfL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HFq3fa": {
+          "type": "heading",
+          "settings": {
+            "text": "Liftélia vs Coloration Basique : Le Comparatif Décisif",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HFq3fa"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1751299423a9db6426": {
       "type": "apps",
       "blocks": {
@@ -519,7 +545,7 @@
           "settings": {
             "product": "{{product}}",
             "title_text": "",
-            "title_font_tag": "h2",
+            "title_font_tag": "h1",
             "section_background_color": ""
           }
         }
@@ -552,6 +578,7 @@
     "multi_column_43MGtp",
     "main",
     "custom_html_wKqwwT",
+    "rich_text_6j9dfL",
     "1751299423a9db6426"
   ]
 }
