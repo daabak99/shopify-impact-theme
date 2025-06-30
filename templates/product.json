@@ -426,6 +426,13 @@
           "settings": {
             "liquid": "<style>\n.video-carousel-container {\n  width: 100%;\n  overflow: hidden;\n  position: relative;\n  margin-top: 0px; \n  margin-bottom: 0px; \n}\n\n.video-carousel-track {\n  display: flex;\n  gap: 15px; \n  overflow-x: scroll; \n  scroll-snap-type: x mandatory; \n  padding: 10px;\n  -webkit-overflow-scrolling: touch; \n}\n\n.video-carousel-track::-webkit-scrollbar {\n  display: none; \n}\n\n.video-carousel-item {\n  flex-shrink: 0;\n  width: 200px; \n  height: 350px; \n  border-radius: 10px; \n  overflow: hidden;\n  scroll-snap-align: start; /* Alignement précis pour chaque vidéo */\n  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n}\n\n.video-carousel-item video {\n  width: 100%;\n  height: 100%;\n  object-fit: cover; \n  pointer-events: none;\n}\n</style>\n\n<div class=\"video-carousel-container\">\n  <div class=\"video-carousel-track\">\n    <!-- Vidéos -->\n<div class=\"video-carousel-item\">\n      <video src=\"https://cdn.shopify.com/videos/c/o/v/2cb0be47df404a988b99851b8e61d21d.mp4\" muted autoplay loop playsinline></video>\n    </div>\n    <div class=\"video-carousel-item\">\n \n      <video src=\"https://cdn.shopify.com/videos/c/o/v/1d9399508e0e4503a0373ac96a87839c.mp4\" muted autoplay loop playsinline></video>\n    </div>\n    <div class=\"video-carousel-item\">\n      <video src=\"https://cdn.shopify.com/videos/c/o/v/0aa022d92e0b44ea85aec5b05395177b.mp4\" muted autoplay loop playsinline></video>\n\n    </div>\n    \n\n  </div>\n</div>"
           }
+        },
+        "collapsible_text_VBikY9": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>Découvrez Liftélia : la révolution de la coloration capillaire à domicile. Colorez vos cheveux en moins de 10 minutes, sans salissure, sans tache et sans abîmer vos cheveux. Appliquez Liftélia comme un shampoing classique, à chaque envie de changement ou de retouche des racines. Après Liftélia, les colorations traditionnelles, c’est fini !</strong><br/><br/></p>"
+          }
         }
       },
       "block_order": [
@@ -446,7 +453,8 @@
         "buy_buttons",
         "image_nCjykM",
         "image_e6gBjM",
-        "liquid_UkQUL8"
+        "liquid_UkQUL8",
+        "collapsible_text_VBikY9"
       ],
       "settings": {
         "full_width": true,
