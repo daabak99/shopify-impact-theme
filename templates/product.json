@@ -433,6 +433,20 @@
             "title": "Description",
             "content": "<p><strong>Découvrez Liftélia : la révolution de la coloration capillaire à domicile. Colorez vos cheveux en moins de 10 minutes, sans salissure, sans tache et sans abîmer vos cheveux. Appliquez Liftélia comme un shampoing classique, à chaque envie de changement ou de retouche des racines. Après Liftélia, les colorations traditionnelles, c’est fini !</strong><br/><br/></p>"
           }
+        },
+        "collapsible_text_BkTtmQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Mode d’emploi",
+            "content": "<p><strong>01. Moussez<br/>Appliquez le produit dans la paume de vos mains et faites-le mousser.</strong></p><p><strong>02. Appliquez<br/>Répartissez la mousse uniformément sur cheveux secs et laissez agir pendant 10 minutes.</strong></p><p><strong>03. Rincez<br/>Rincez abondamment et profitez de votre nouvelle couleur !</strong><br/><br/></p>"
+          }
+        },
+        "collapsible_text_neNk73": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<p><strong>Ingrédients soigneusement sélectionnés </strong><em>Liftélia associe des agents colorants performants à des huiles botaniques (macadamia, jojoba) et des extraits de racines (ginseng, gingembre) pour préserver la beauté et la santé de vos cheveux.</em></p><p><strong>Ingrédients : </strong></p><p>Eau, alcool cétylique/cétéarylique, cétéareth-25, p-phénylènediamine, propylène glycol, acide ascorbique (vitamine C), glycéryl stéarate, squalane, vaseline, cyclopentasiloxane, parfum, résorcine, sulfite de sodium, phénylméthylpyrazolone, chlorure de cétrimonium, huile de graines de Macadamia ternifolia, huile de graines de Simmondsia chinensis (jojoba), EDTA tétrasodique, éthanol.<br/>Autres ingrédients en traces : extrait de racine de Polygonum multiflorum, extrait de racine de Zingiber officinale (gingembre), extrait de racine de Panax ginseng, m-aminophénol, sulfate de N,N-bis(2-hydroxyéthyl)-p-phénylènediamine, 1,2-hexanediol, phénoxyéthanol, éthylhexylglycérine.<br/><br/><em><br/></em><br/><br/></p>"
+          }
         }
       },
       "block_order": [
@@ -454,7 +468,9 @@
         "image_nCjykM",
         "image_e6gBjM",
         "liquid_UkQUL8",
-        "collapsible_text_VBikY9"
+        "collapsible_text_VBikY9",
+        "collapsible_text_BkTtmQ",
+        "collapsible_text_neNk73"
       ],
       "settings": {
         "full_width": true,
@@ -473,28 +489,6 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
@@ -505,7 +499,6 @@
     "video_kxradN",
     "custom_html_ggc7Xe",
     "multi_column_43MGtp",
-    "main",
-    "related-products"
+    "main"
   ]
 }
