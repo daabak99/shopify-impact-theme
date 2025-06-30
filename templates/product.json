@@ -187,6 +187,79 @@
         "overlay_opacity": 0
       }
     },
+    "custom_html_ggc7Xe": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<div class=\"section   section-blends section-full\">\n    <div class=\"trustpilot-clean\">\n  <h2>Nos clients en parlent le mieux:</h2>\n  <div class=\"trustpilot-line\">\n    <span class=\"rating-text\">Excellent</span>\n    <strong class=\"rating-score\">4.7 / 5</strong>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\" alt=\"5 étoiles\" class=\"stars-img\">\n  </div>\n  <div class=\"trustpilot-bottom\">\n    <span>basé sur <strong>+1800</strong> avis</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/trustpilot-svg_klyne.webp?v=1743809609\" alt=\"Trustpilot\" class=\"tp-logo\" loading=\"lazy\">\n  </div>\n</div>\n\n<style>\n.trustpilot-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n\n.trustpilot-clean h2 {\n  font-size: 22px;\n  font-weight: 700;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n\n.trustpilot-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n  margin-top: 2px;\n}\n\n.rating-score {\n  font-weight: bold;\n}\n\n.stars-img {\n  width: 120px;\n  margin-right: 10px;\n  vertical-align: middle;\n}\n\n.trustpilot-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n\n.tp-logo {\n  height: 24px;\n  margin-top: -2px;\n}\n\n.trustpilot-badge-below {\n  margin-top: 12px;\n  text-align: center;\n  background-color: #fef9f5;\n  padding: 1.2rem 1rem;\n}\n\n.trustpilot-badge-below img {\n  max-width: 100%;\n  height: auto;\n}\n</style>\n  </div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_43MGtp": {
+      "type": "multi-column",
+      "blocks": {
+        "item_TjRz8m": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/NATURALBLACK_11.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_L3eyNF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JBG7x4": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_TjRz8m",
+        "item_L3eyNF",
+        "item_JBG7x4"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -371,6 +444,8 @@
     "rich_text_Ug6hzH",
     "rich_text_dYCQfE",
     "video_kxradN",
+    "custom_html_ggc7Xe",
+    "multi_column_43MGtp",
     "main",
     "related-products"
   ]
