@@ -518,7 +518,7 @@
           "type": "heading",
           "settings": {
             "text": "Liftélia vs Coloration Basique :",
-            "heading_tag": "h3",
+            "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
           }
