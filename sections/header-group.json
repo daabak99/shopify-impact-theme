@@ -38,7 +38,7 @@
     "header": {
       "type": "header",
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/Brown_White_Typography_Fashion_Beauty_Logo_3.png",
         "logo_max_width": 300,
