@@ -113,18 +113,11 @@
     "rich_text_Ug6hzH": {
       "type": "rich-text",
       "blocks": {
-        "subheading_gAVygp": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Pourquoi choisir le champoing Liftélia"
-          }
-        },
         "heading_kBawb3": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir le champoing Liftélia",
-            "heading_tag": "h2",
+            "text": "Pourquoi choisir le champoing Liftélia :",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -140,7 +133,6 @@
         }
       },
       "block_order": [
-        "subheading_gAVygp",
         "heading_kBawb3",
         "image_TzVKY6"
       ],
