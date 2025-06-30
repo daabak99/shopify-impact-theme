@@ -146,6 +146,32 @@
         "text_color": ""
       }
     },
+    "rich_text_dYCQfE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HezgaU": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat Avant/Après",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HezgaU"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -328,6 +354,7 @@
     "slideshow_K9Nnic",
     "logo_list_CrEg6f",
     "rich_text_Ug6hzH",
+    "rich_text_dYCQfE",
     "main",
     "related-products"
   ]
