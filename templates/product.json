@@ -206,7 +206,7 @@
         "item_TjRz8m": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/NATURALBLACK_11.png",
+            "image": "shopify://shop_images/gempages_521614231259317420-5e4a8714-c01a-4afd-9399-8b5ed973f49f.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -219,6 +219,46 @@
         "item_L3eyNF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gempages_521614231259317420-776ef592-d942-469f-8a23-c8400173935a.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_bJWgHA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_503471903491490922-c034b772-4275-4a2b-81d5-12a1c97cec92_ff8310cb-9b1f-487e-beb3-78fba99783ae.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_k4RM9n": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8_2e965298-330c-463b-a1f2-fbd39d5220a3.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rTha6w": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_521614231259317420-98a78b7a-67ae-4780-89da-175ecf84aec0.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -231,6 +271,7 @@
         "item_JBG7x4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gempages_521614231259317420-6daf87ea-b290-437a-9d3e-06e009877b5d.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -244,6 +285,9 @@
       "block_order": [
         "item_TjRz8m",
         "item_L3eyNF",
+        "item_bJWgHA",
+        "item_k4RM9n",
+        "item_rTha6w",
         "item_JBG7x4"
       ],
       "name": "Multi-column",
