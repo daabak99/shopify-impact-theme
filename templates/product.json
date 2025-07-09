@@ -406,6 +406,14 @@
         },
         "image_nCjykM": {
           "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_R7hie3": {
+          "type": "image",
           "disabled": true,
           "settings": {
             "image": "shopify://shop_images/sercure_2.png",
@@ -415,6 +423,7 @@
         },
         "image_e6gBjM": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/2c4f92e2-cbfa-4090-8f9e-b99a2fcd06ec.png",
             "alignment": "center",
@@ -473,6 +482,7 @@
         "liquid_BBwr9r",
         "buy_buttons",
         "image_nCjykM",
+        "image_R7hie3",
         "image_e6gBjM",
         "liquid_UkQUL8",
         "collapsible_text_VBikY9",
